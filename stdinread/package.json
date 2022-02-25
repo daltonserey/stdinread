@@ -1,6 +1,6 @@
 {
   "name": "stdinread",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "minimalistic stdin line reader",
   "main": "index.mjs",
   "scripts": {
@@ -9,5 +9,19 @@
   "author": "Dalton Serey",
   "license": "ISC",
   "type": "module",
-  "exports": "./index.mjs"
+  "exports": "./index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daltonserey/stdinread.git"
+  },
+  "keywords": [
+    "node",
+    "stdin",
+    "readline",
+    "sync"
+  ],
+  "bugs": {
+    "url": "https://github.com/daltonserey/stdinread/issues"
+  },
+  "homepage": "https://github.com/daltonserey/stdinread#readme"
 }
