@@ -1,6 +1,6 @@
 {
   "name": "stdinread",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "minimalistic stdin line reader",
   "main": "index.mjs",
   "scripts": {
